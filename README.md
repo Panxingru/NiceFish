@@ -40,6 +40,7 @@ NiceFish（美人鱼） 是一个系列项目，目标是示范前后端分离�
 How to: Configure your server to work with html5Mode 这个小节里面把常见的 WEB 容器的配置方式都列举出来了，包括：IIS、Apache、nginx、NodeJS、Tomcat 全部都有。
 
 ## 主要依赖
+/hahha 
 
 - Angular 8.0
 - PrimeNG 7.1
